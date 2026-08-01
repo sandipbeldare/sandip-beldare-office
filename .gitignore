@@ -1,0 +1,13 @@
+# Local database and runtime data
+sandip-office.db
+sandip-office.db-shm
+sandip-office.db-wal
+
+# Credentials and deployment configuration
+.env
+.env.local
+.vercel
+
+# Operating-system files
+Thumbs.db
+.DS_Store

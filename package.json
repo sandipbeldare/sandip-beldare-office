@@ -1,0 +1,1 @@
+{"name":"sandip-beldare-office-system","private":true,"version":"1.0.0","type":"module","scripts":{"start":"node --experimental-sqlite server.mjs"}}
